@@ -63,11 +63,9 @@ Clear ZH外部群号：795980987
 
 <a id="develop" style="color: CornflowerBlue;">锚点 ID: develop</a>
 
-你可以更改 Clear ZH 帮助文件和 assets/minecraft/lang/zh_clear.json 文件，
+您不能转载，除非作者同意并没有进行修改。
 
-如果您要进行转载，请标注原作者以及原作者联系方式。
-
-您可以重写一套帮助文件（请不要直接替换本文件），
+您可以重写一套帮助文件（请不要直接替换本文件）或更改这个帮助文件，
 
 若您发现了盗资源包的作者，请告诉我。
 
