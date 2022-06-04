@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "§eClear ZH 资源包\n§3Release v1.0.0"
+    },
+    "language": {
+        "zh_clear": {
+            "name": "§e简洁中文§r",
+            "region": "§cClear ZH§r",
+            "bidirectional": false
+        }
+    },
+    "author": [
+        "efjiewldrud 作者小号",
+        "efjiewldvrud 作者"
+    ]
+}
