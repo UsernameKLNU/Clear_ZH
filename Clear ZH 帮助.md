@@ -55,14 +55,6 @@ Clear ZH外部群号：795980987
 
 [作者电子邮件](mailto:IForgotThePassw0rd@outlook.com)
 
-
-
-# Developers 
-
-
-
-<a id="develop" style="color: CornflowerBlue;">锚点 ID: develop</a>
-
 您不能转载，除非作者同意并没有进行修改。
 
 您可以重写一套帮助文件（请不要直接替换本文件）或更改开源的所有内容，
@@ -70,3 +62,8 @@ Clear ZH外部群号：795980987
 若您发现了盗资源包的作者，请告诉我。
 
 作者联系方式：[点我查看](#contact_author)
+
+# Developers 
+
+<a id="develop" style="color: CornflowerBlue;">锚点 ID: develop</a>
+
