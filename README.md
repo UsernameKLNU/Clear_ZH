@@ -7,8 +7,11 @@
 [什么是Clear ZH？](#what_is_clear_zh)
 
 [Error 号码](#error_number)
+
     [Error 1](#error_1)
+
     [Error 2](#error_2)
+
     [Error 3](#error_3)
 
 [需要帮助吗？](#need_help)
