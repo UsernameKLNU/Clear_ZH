@@ -4,13 +4,21 @@
         "titles": [
             {
                 "title": "Author",
-                "names": ["efjiewldrud"]
+                "names": [
+                    "efjiewldrud"
+                ]
             },
             {
-                "title": "contributors",
+                "title": "Contributors",
                 "names": [
                     "UsernameKLNU",
                     "got991"
+                ]
+            },
+            {
+                "title": "Translator",
+                "names": [
+                    "UsernameKLNU"
                 ]
             }
         ]
