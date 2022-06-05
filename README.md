@@ -32,13 +32,9 @@ Clear ZH是简洁的中文，旨在将晦涩难懂的提示改为简洁的提示
 
 <a id="error_1" style="color: CornflowerBlue;">锚点 ID: error_1</a>
 
-
-
 ### Error 2
 
 <a id="error_2" style="color: CornflowerBlue;">锚点 ID: error_2</a>
-
-
 
 ## Error 3
 
@@ -72,7 +68,6 @@ Clear ZH外部群号：795980987
 
 作者联系方式：[点我查看](#contact_author)
 
-# Developers 
+## Developers
 
 <a id="develop" style="color: CornflowerBlue;">锚点 ID: develop</a>
-
