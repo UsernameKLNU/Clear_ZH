@@ -1,6 +1,6 @@
 # Clear ZH 帮助
 
-请仔细阅读[点我跳转](#need_help)和[点我跳转](#develop)
+请仔细阅读[点我跳转](#need_help)
 
 ## 目录 （按 左键 / Ctrl + 左键 打开）
 
