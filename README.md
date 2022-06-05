@@ -36,7 +36,7 @@ Clear ZH是简洁的中文，旨在将晦涩难懂的提示改为简洁的提示
 
 <a id="error_2" style="color: CornflowerBlue;">锚点 ID: error_2</a>
 
-## Error 3
+### Error 3
 
 <a id="error_3" style="color: CornflowerBlue;">锚点 ID: error_3</a>
 
