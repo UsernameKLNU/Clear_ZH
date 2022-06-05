@@ -1,127 +1,17 @@
 [
     {
-        "section": "Memified Chinese Resource Pack",
+        "section": "Clear Chinese Resource Pack",
         "titles": [
             {
-                "title": "Initiator",
-                "names": ["Lxazl5770 (斯乌)"]
+                "title": "Author",
+                "names": ["efjiewldrud"]
             },
             {
-                "title": "Translations by",
+                "title": "contributors",
                 "names": [
-                    "Lakejason0",
-                    "斯乌",
-                    "MysticNebula",
-                    "一只火狐",
-                    "IcyPhantom",
-                    "SkyEye_FAST",
-                    "电量量",
-                    "DoroWolf",
-                    "Kakagou",
-                    "古镇天Gu_ZT",
-                    "Huerdada",
-                    "Zh9c418",
-                    "Foxwesty",
-                    "Minecreeper86",
-                    "Determancer",
-                    "飞翔之歌",
-                    "Wishing-Qi",
-                    "DrLee lihr",
-                    "Nasouk075",
-                    "WTP-016",
-                    "45gfg9",
-                    "Neubulae",
-                    "CR-019",
-                    "最亮的信标",
-                    "冷星轩",
-                    "TripleCamera",
-                    "低耐久的铁砧",
-                    "Minecraftku_hei",
-                    "pkstDev",
-                    "theflysong"
+                    "UsernameKLNU",
+                    "got991"
                 ]
-            },
-            {
-                "title": "Resource Modules by",
-                "names": [
-                    "Lakejason0",
-                    "Light Beacon",
-                    "siiftun1857",
-                    "SkyEye_FAST",
-                    "DoroWolf",
-                    "古镇天Gu_ZT",
-                    "zh9c418",
-                    "CR-019",
-                    "Neubulae",
-                    "最亮的信标",
-                    "电量量",
-                    "Iron_noob_73",
-                    "ZX夏夜之风",
-                    "低耐久的铁砧",
-                    "teddyxlandlee"
-                ]
-            },
-            {
-                "title": "Honorary Author",
-                "names": ["ff98sha"]
-            },
-            {
-                "title": "MCLangCN Contributor",
-                "names": ["ff98sha", "Jingji132", "电量量"]
-            },
-            {
-                "title": "Memepack Builder Developer",
-                "names": [
-                    "Lakejason0",
-                    "MysticNebula",
-                    "wyapx",
-                    "_LittleC_",
-                    "电量量"
-                ]
-            },
-            {
-                "title": "Proofread by",
-                "names": ["梗体中文内容组", "茶馆工作室"]
-            },
-            {
-                "title": "Models by",
-                "names": ["古镇天Gu_ZT", "Lakejason0"]
-            },
-            {
-                "title": "Bedrock Edition Port Lead",
-                "names": ["SkyEye_FAST"]
-            },
-            {
-                "title": "Other Contributor",
-                "names": ["Snow_dash"]
-            },
-            {
-                "title": "Special Thanks to",
-                "names": [
-                    "Blockbench",
-                    "Addonscommandresource",
-                    "邹陈云飞_ZCYF",
-                    "金蛋工作室",
-                    "LocusAzzurro"
-                ]
-            },
-            {
-                "title": "Sponsored by",
-                "names": [
-                    "SPGoding",
-                    "是秋夕啊mua",
-                    "Kakagou",
-                    "WDLJT",
-                    "苏打baka"
-                ]
-            },
-            {
-                "title": "Teahouse Studios Member",
-                "names": ["timi137137", "zyjking"]
-            },
-            {
-                "title": "Publisher",
-                "names": ["茶馆工作室 (Teahouse Studios)"]
             }
         ]
     },
