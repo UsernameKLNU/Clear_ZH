@@ -7,9 +7,9 @@
 [什么是Clear ZH？](#what_is_clear_zh)
 
 [Error 号码](#error_number)
-    [Error 1](#info_1)
-    [Error 2](#info_2)
-    [Error 3](#info_3)
+    [Error 1](#error_1)
+    [Error 2](#error_2)
+    [Error 3](#error_3)
 
 [需要帮助吗？](#need_help)
 
@@ -34,6 +34,12 @@ Clear ZH是简洁的中文，旨在将晦涩难懂的提示改为简洁的提示
 ### Error 2
 
 <a id="error_2" style="color: CornflowerBlue;">锚点 ID: error_2</a>
+
+
+
+## Error 3
+
+<a id="error_3" style="color: CornflowerBlue;">锚点 ID: error_3</a>
 
 # Need Help?
 
