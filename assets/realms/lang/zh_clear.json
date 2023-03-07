@@ -131,7 +131,7 @@
     "mco.download.preparing": "正在准备下载",
     "mco.download.title": "下载最新的世界",
     "mco.error.invalid.session.message": "请尝试重启Minecraft",
-    "mco.error.invalid.session.title": "无效的会话ID",
+    "mco.error.invalid.session.title": "无效的会话ID（经典的问题）",
     "mco.errorMessage.6001": "客户端已过期！",
     "mco.errorMessage.6002": "尚未同意服务条款",
     "mco.errorMessage.6003": "超过下载限制 :(",
