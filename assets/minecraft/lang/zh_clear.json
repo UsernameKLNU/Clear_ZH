@@ -5399,7 +5399,7 @@
   "team.visibility.hideForOwnTeam": "对本队隐藏",
   "team.visibility.never": "始终隐藏",
   "title.32bit.deprecation": "检测到32位系统：未来将需要64位系统，使用32位系统可能将无法进行游戏！",
-  "title.32bit.deprecation.realms": "Minecraft不久后需要64位系统才能运行，届时你将无法使用该设备进行游戏或使用Realms服务。你需要自行取消所有Realms订阅。",
+  "title.32bit.deprecation.realms": "Minecraft不久后需要64位系统才能运行，那时你将无法使用该设备进行游戏或使用Realms服务。你需要自行取消所有Realms订阅。",
   "title.32bit.deprecation.realms.check": "不再显示此屏幕",
   "title.32bit.deprecation.realms.header": "检测到32位系统",
   "title.multiplayer.disabled": "多人游戏已被禁用，请检查你的Microsoft账户设置。",
