@@ -29,7 +29,6 @@ Clear ZH是简洁的中文，旨在将晦涩难懂的提示改为简洁的提示
 
 [作者电子邮件 | QQ](mailto:484029294@qq.com)
 
-[作者电子邮件 | Outlook](mailto:OhShitPassword@outlook.com)
 
 您不能转载，除非作者同意。
 
